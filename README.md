@@ -1,4 +1,4 @@
-<h1>Home Lab - Top Ten Help Desk Tickets</h1>
+<h1>Top Ten Help Desk Tickets</h1>
 
 <h2>Description</h2>
 This lab focuses on leveraging AI (specifically ChatGPT) to help identify and resolve common IT support issues. The goal is to use AI to search for and provide solutions to the 10 most common IT support tickets and as a bonus 10 common remote IT support tickets. AI will assist in gathering relevant information and randomized ticket generation for each of these 20 common ticket topics, which will then be documented for easy reference.
